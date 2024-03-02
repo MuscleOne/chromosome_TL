@@ -1,2 +1,2 @@
 # chromosome_TL
-Implementation of conference paper *Rethinking Deep Transfer Learning in Chromosome Image Classification: An Empirical Study with Limited Training Data*
+Implementation of paper *ImageNet Pre-training and Two-Step Transfer Learning in Chromosome Image Classification*
